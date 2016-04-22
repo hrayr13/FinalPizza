@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Pizza</string>
+    <string name="pizza_s_description">Pizzas description</string>
+    <string name="diabola_description">Pizza alla Diavola, a pretty spicy pizza. Diavola contains spicy Italian salami,
+                  peperoncino, which is a spicy pepper and even red chili flakes.
+                  A devilish pizza that will leave water in your mouth!</string>
+    <string name="funghi_description">Now that I’ve got the hang of making great pizza at home using cold-fermented
+                 dough and baking it tender but crispy in 3 minutes on an aluminum plate,
+                 it is time to make pizzas with different toppings. Mushrooms are always a favorite,
+                 and the most important thing to get it right is to always sauté the mushrooms before putting them on a pizza.
+                 When you bake the mushrooms raw, they will release a lot of liquid that will make your pizza soggy.
+                 For additional flavor I like to sauté the mushrooms trifolati, with garlic and parsley.</string>
+    <string name="capricciosa_description">The pizza capricious is the most classic Italian pizzas.
+                And present in all menus of pizzerias. The customer undecided always end up ordering the pizza capricious,
+                rich, abundant and imaginative, this pizza always manages to please everyone.</string>
+    <string name="hawaii_description">Thin pizza bases
+                140g tub pizza sauce
+                200g light shaved ham
+                1/4 pineapple, peeled, cut into 2cm pieces
+                150g button mushrooms, finely sliced
+                1 teaspoon dried mixed Italian herbs
+                1 cup grated low-fat mozzarella cheese
+                100g baby spinach, to serve</string>
+    <string name="aglio_e_olio_description">Heat broiler with rack in top position
+                place sheet of foil on rack below to catch any drips.
+                Combine garlic, chile, and 1/4 cup oil in a small saucepan over low heat and cook until softened, about 4 minutes.
+                Place crust on a baking sheet or pizza peel. Spread tomatoes over crust, leaving a 1/2” border.
+                Scatter some garlic and chile over top, then drizzle with some of the infused oil. Slide pizza onto rack and broil,
+                checking often, until crust is charred and blistered in spots, 6–8 minutes.
+                Using a pair of tongs, remove pizza from oven; sprinkle with salt and red pepper flakes, drizzle with olive oil,
+                and top with parsley</string>
+    <string name="ai_frutti_di_mare_description">Ingredients:
+                One 13 inch frying pan (Cast Iron, any size will really do).
+                3 large cloves of garlic, sliced in half (you will later discard them)
+                One pint of small cherry tomatoes
+                2 teaspoons of salt
+                1 teaspoon pepper
+                1 teaspoon  hot red pepper (optional)
+                2 tablespoons of olive oil
+                1/2 cup of white wine (clams)
+                1 additional tablespoon of olive oil to brush onto your dough
+                6-8 jumbo shrimp, cleaned, leave the peeling on.   You will finish cleaning them before assembly on pizza
+                1 pound clams (baby, small, little neck or of equal kind), fresh or frozen with shells if available in your area</string>
+    <string name="al_prosciutto_description">INGREDIENTS :
+                 150g buffalo mozzarella, or 4 bocconcini balls
+                 Extra virgin olive oil, to drizzle
+                 25g parmesan cheese, grated
+                 8 slices prosciutto, torn
+                 10 cherry tomatoes, halved
+                 2 cups wild rocket leaves
+                 Pizza dough
+                 350g strong (baker\'s) flour, plus extra to dust
+                 1 teaspoon caster sugar
+                 7g packet dried instant yeast
+                 2 tablespoons olive oil</string>
+    <string name="quattro_stagioni_description">Our Readers Also Loved
+                 Pizza Quattro Stagioni
+                 Chocolate Lava Cake Crockpot Recipe
+                 Pizza Quattro StagioniPizza Quattro StagioniPizza Quattro StagioniPizza Quattro StagioniPizza Quattro Stagioni
+                 Pizza Quattro Stagioni
+                 Incredible Peach And Plum Dump Cake Recipe
+                 Pizza Quattro StagioniPizza Quattro StagioniPizza Quattro StagioniPizza Quattro StagioniPizza Quattro Stagioni
+                 Pizza Quattro Stagioni
+                 Aromatic Cherry Dump Cake Crockpot Recipe
+                 Pizza Quattro StagioniPizza Quattro StagioniPizza Quattro StagioniPizza Quattro StagioniPizza Quattro Stagioni </string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
